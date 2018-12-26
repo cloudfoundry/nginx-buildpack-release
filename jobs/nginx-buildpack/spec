@@ -1,0 +1,8 @@
+---
+name: nginx-buildpack
+templates: {}
+
+packages:
+- nginx-buildpack-cflinuxfs3
+
+properties: {}
