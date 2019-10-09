@@ -1,0 +1,21 @@
+name: nginx-buildpack
+version: 1.0.18
+commit_hash: b57defd
+uncommitted_changes: false
+jobs:
+- name: nginx-buildpack
+  version: dc37313df5bce9f3cb19f3144c0178de6f6d3294dcc9d3de6fc32ca69efce2d0
+  fingerprint: dc37313df5bce9f3cb19f3144c0178de6f6d3294dcc9d3de6fc32ca69efce2d0
+  sha1: sha256:d05ed827d0c76d297ecb63adb16b7f5a98d601e0a93904313ddb5a0aadeeed99
+  packages:
+  - nginx-buildpack-cflinuxfs3
+packages:
+- name: nginx-buildpack-cflinuxfs3
+  version: 3b6ece0a3a2dc0adf299b0c119ce7258f9ffb80edb5bbb0464d3d5a401423cd8
+  fingerprint: 3b6ece0a3a2dc0adf299b0c119ce7258f9ffb80edb5bbb0464d3d5a401423cd8
+  sha1: sha256:90267663fe59aca6335b8bda50c775627532828980df3097fd4800326f3ea8a7
+  dependencies: []
+license:
+  version: d498d3cee3a6e27c39db6ab190792bd5cfee804fa329fc550673d2801900dbdd
+  fingerprint: d498d3cee3a6e27c39db6ab190792bd5cfee804fa329fc550673d2801900dbdd
+  sha1: sha256:2e712a88764fd0546f1794a4d684e160611d780d09c1cd968eb814e8cfe1f582
