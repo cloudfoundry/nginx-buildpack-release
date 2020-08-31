@@ -37,6 +37,8 @@ builds:
     version: 1.1.8
   ddc17d9d-42e0-4e01-6320-5ab81ecd1a56:
     version: 1.1.0
+  e7bfaf9c-d59f-4a97-6a70-657679aa0af4:
+    version: 1.1.14
   ff0371ca-d603-4c02-6232-44b7dd83c783:
     version: 1.1.5
 format-version: "2"
