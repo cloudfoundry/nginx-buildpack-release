@@ -37,6 +37,8 @@ builds:
     version: 1.1.23
   65b352ee-f97e-4bb1-4c70-7a832e6ed824:
     version: 1.0.11
+  6acfded5-645a-45e8-6770-98da8328d7ac:
+    version: 1.1.30
   6ebbd4ee-82cf-4983-7bbe-5a397971ed7c:
     version: 1.1.15
   705da5f6-bd26-4108-67e0-f3823439d0af:
