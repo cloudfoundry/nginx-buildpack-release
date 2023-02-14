@@ -1,0 +1,4 @@
+---
+name: nginx-buildpack-cflinuxfs4
+files:
+- nginx-buildpack/nginx?buildpack-cflinuxf4-*.zip
