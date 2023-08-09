@@ -1,8 +1,8 @@
-nginx-buildpack/nginx_buildpack-cflinuxfs3-v1.2.5.zip:
-  size: 7490304
-  object_id: d0c626a1-08da-44e6-753e-0933280490a6
-  sha: sha256:3edd35dbe5a56dacc539477344c61f7f21c6f3a23103e0fd1694044cad0ae31b
-nginx-buildpack/nginx_buildpack-cflinuxfs4-v1.2.5.zip:
-  size: 7490000
-  object_id: 86613eb1-1b9c-4929-645b-2ac589846809
-  sha: sha256:740b424e30f5e1fc11be0af2d2b5a4c48bfb87414a0a7d7e4113f645f9e16464
+nginx-buildpack/nginx_buildpack-cflinuxfs3-v1.2.6.zip:
+  size: 7701986
+  object_id: 241be986-896c-4318-689a-8827d3eca11d
+  sha: sha256:b56d967226923874d8f6ba45284e37c18414da5ff67c1e341b5a4ab4bdde294c
+nginx-buildpack/nginx_buildpack-cflinuxfs4-v1.2.6.zip:
+  size: 7701694
+  object_id: ea165ff8-e9aa-4b72-4162-ed2bb37fd23e
+  sha: sha256:bcbe628e2296a8e31ae554f7a67113b89fde0e42f6e934165a3da5a61fdcb051
