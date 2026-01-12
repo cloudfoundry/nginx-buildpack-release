@@ -1,4 +1,0 @@
----
-name: nginx-buildpack-cflinuxfs3
-files:
-- nginx-buildpack/nginx?buildpack-cflinuxfs3-*.zip

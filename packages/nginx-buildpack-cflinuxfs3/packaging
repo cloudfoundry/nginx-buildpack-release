@@ -1,2 +1,0 @@
-set -e -x
-cp nginx-buildpack/nginx?buildpack-cflinuxfs3-*.zip ${BOSH_INSTALL_TARGET}
