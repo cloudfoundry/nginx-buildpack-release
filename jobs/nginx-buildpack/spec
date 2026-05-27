@@ -3,6 +3,7 @@ name: nginx-buildpack
 templates: {}
 
 packages:
+- nginx-buildpack-cflinuxfs5
 - nginx-buildpack-cflinuxfs4
 
 properties: {}
